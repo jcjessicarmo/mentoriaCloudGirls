@@ -3,37 +3,35 @@
 ## Aula 1
 
     1. Um array esparso é um tipo de array no qual a maioria dos elementos tem valores indefinidos. Crie um array esparso e atribua valores a alguns elementos do array (por exemplo, defina valores nos índices 1, 3 e 7). Imprima no console o array e também a informação de comprimento do array.
-    
-    2. Crie um programa em Node.js que inicie com um array cinco elementos e atribua um novo valor para a primeira posição (índice 0) desse array. Em seguida, exiba o array antes e depois da alteração.
-    
-    3. Crie um array vazio chamado `meuArray` e adicione 3 números inteiros de sua escolha utilizando o método `push()`. Imprima no console os itens presentes no array para verificar se os números foram adicionados. Em seguida, substitua o primeiro elemento do array (índice 0) pelo dobro do seu valor atual. Imprima no console o array atualizado para verificar a mudança.
-    
-    4. Desenvolva um programa em Node.js que crie um array vazio e atribua valores a ele utilizando o método `push()`. Adicione três números inteiros ao array e, em seguida, exiba o array resultante.
-    
-    5. Desenvolva um programa em Node.js que simule uma clínica veterinária. Crie um array vazio chamado `clinica` que representará a fila de animais na clínica. Em um primeiro momento, simule a chegada de três animais diferentes e exiba a lista de animais no console. Após a exibição, remova os animais da lista um por vez e, por fim, exiba no console o estado final da lista.
 
+    2. Crie um programa em Node.js que inicie com um array cinco elementos e atribua um novo valor para a primeira posição (índice 0) desse array. Em seguida, exiba o array antes e depois da alteração.
+
+    3. Crie um array vazio chamado `meuArray` e adicione 3 números inteiros de sua escolha utilizando o método `push()`. Imprima no console os itens presentes no array para verificar se os números foram adicionados. Em seguida, substitua o primeiro elemento do array (índice 0) pelo dobro do seu valor atual. Imprima no console o array atualizado para verificar a mudança.
+
+    4. Desenvolva um programa em Node.js que crie um array vazio e atribua valores a ele utilizando o método `push()`. Adicione três números inteiros ao array e, em seguida, exiba o array resultante.
+
+    5. Desenvolva um programa em Node.js que simule uma clínica veterinária. Crie um array vazio chamado `clinica` que representará a fila de animais na clínica. Em um primeiro momento, simule a chegada de três animais diferentes e exiba a lista de animais no console. Após a exibição, remova os animais da lista um por vez e, por fim, exiba no console o estado final da lista.
 
 ## Aula 2
 
     1. Crie uma função que receba dois arrays e os concatene em um único array.
-    
+
     2. Crie um array chamado numeros contendo números de 1 a 10. Utilize o método slice para criar um novo array chamado parteNumeros que contenha apenas os números de índice 3 a 7 de numeros.
-    
-    3. Dado o array frutas contendo frutas que desejamos comprar na feira: 
-    `const frutas = ['Maçã', 'Banana', 'Laranja', 'Limão', 'Abacaxi']` 
+
+    3. Dado o array frutas contendo frutas que desejamos comprar na feira:
+    `const frutas = ['Maçã', 'Banana', 'Laranja', 'Limão', 'Abacaxi']`
     Utilize o método splice para remover as frutas no índice 2 e 3 e, em seguida, adicione as frutas 'Kiwi' e 'Pêssego' nesses mesmos índices.
-    
+
     4. Crie dois arrays chamados `menuPrincipal` e `menuDeSobremesas` contendo opções do cardápio de um restaurante. Utilize o método `concat` para criar um novo array `menuCompleto` contendo todos os elementos de `menuPrincipal` seguidos pelos elementos de `menuDeSobremesas`.
-    
+
     5. Crie uma lista bidimensional com 3 linhas e 3 colunas, onde cada elemento seja uma matriz 3x3 com valores iniciando em 1 e aumentando em 1 a cada elemento.
     Dicas:
     - comece com um array vazio, por exemplo `const matriz = []` e adicione valores nele com `push`;
     - você pode resolver usando um `for` dentro de outro `for`.
-    
+
     6. Acess  e imprima o elemento na segunda linha e terceira coluna da lista bidimensional matriz criada no exercício anterior.
 
     7. Adicione um novo elemento (por exemplo,`15`) na terceira linha e segunda coluna da lista bidimensional matriz criada anteriormente.
-
 
 ## Aula 3
 
@@ -48,7 +46,6 @@
     5. Crie um programa que utilize um laço for para percorrer uma array `const numeros = [3, 8, 12, 5, 6, 10, 7, 2, 9, 14]` e exibir no console apenas os números pares contidos nesse array.
 
     6. Crie um programa que calcule a média dos números presentes em um array utilizando um loop for.
-
 
 ## Aula 4
 
