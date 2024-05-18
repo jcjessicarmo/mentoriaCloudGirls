@@ -30,3 +30,28 @@ HTML, CSS & JavaScript.
 - [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos)
 
 - [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos)
+
+
+## Semana 5
+
+- [HTML e CSS: responsividade com mobile-first](https://cursos.alura.com.br/course/html-css-responsividade-mobile-first)
+
+- [JavaScript: consumindo e tratando dados de uma API](https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-uma-api)
+
+
+## Semana 6
+
+- [JavaScript: criando requisições](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
+
+- [JS na web: CRUD com JavaScript assíncrono](https://cursos.alura.com.br/course/javascript-crud-assincrono)
+  
+- [Python: crie a sua primeira aplicação](https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao)
+
+
+## Semana 7
+
+- [Python: aplicando a Orientação a Objetos](https://cursos.alura.com.br/course/python-aplicando-orientacao-objetos)
+
+- [Python: avance na Orientação a Objetos e consuma API](https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api)
+
+- [Python para Data Science: primeiros passos](https://cursos.alura.com.br/course/python-data-science-primeiros-passos)
