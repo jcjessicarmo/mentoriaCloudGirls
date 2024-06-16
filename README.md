@@ -55,3 +55,25 @@ HTML, CSS & JavaScript.
 - [Python: avance na Orientação a Objetos e consuma API](https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api)
 
 - [Python para Data Science: primeiros passos](https://cursos.alura.com.br/course/python-data-science-primeiros-passos)
+
+  
+## Semana 8
+
+- [Python para Data Science: trabalhando com funções, estruturas de dados e exceções](https://cursos.alura.com.br/course/python-data-science-funcoes-estruturas-dados-excecoes)
+
+- [NumPy: análise numérica eficiente com Python](https://cursos.alura.com.br/course/numpy-analise-numerica-eficiente-pythons)
+
+
+  
+## Semana 9
+
+- [Pandas: conhecendo a biblioteca](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
+
+- [Pandas I/O: trabalhando com diferentes formatos de arquivos](https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos)
+
+
+## Semana 10
+
+- [Pandas: selecionando e agrupando dados](https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados)
+
+- [Pandas: transformação e manipulação de dados](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
