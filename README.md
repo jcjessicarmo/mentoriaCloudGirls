@@ -91,3 +91,19 @@ HTML, CSS & JavaScript.
 - [Data Visualization: gráficos de comparação e distribuição](https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao)
 
 - [Data Visualization: gráficos de composição e relacionamento](https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento)
+
+
+## Semana 13
+
+- [Data Visualization: estilização de tabelas com Python](https://cursos.alura.com.br/course/data-visualization-estilizacao-tabelas-python)
+
+- [Streamlit: construindo um dashboard interativo](https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo)
+
+- [Python: análise de dados com SQL](https://cursos.alura.com.br/course/python-analise-dados-sql)
+
+
+## Semana 14
+
+- [Python e Power BI: analisando dados do mercado financeiro](https://cursos.alura.com.br/course/python-power-bi-dados-mercado-financeiro)
+
+- [Geopandas: trabalhando com dados geoespaciais](https://cursos.alura.com.br/course/geopandas-trabalhando-dados-geoespaciais)
