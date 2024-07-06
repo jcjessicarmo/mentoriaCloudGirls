@@ -74,6 +74,20 @@ HTML, CSS & JavaScript.
 
 ## Semana 10
 
-- [Pandas: selecionando e agrupando dados](https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados)
+- [Pandas: selecionando e agrupando dados](https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados)
 
 - [Pandas: transformação e manipulação de dados](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
+
+
+## Semana 11
+
+- [Pandas: limpeza e tratamento de dados](https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados)
+
+- [Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
+
+
+## Semana 12
+
+- [Data Visualization: gráficos de comparação e distribuição](https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao)
+
+- [Data Visualization: gráficos de composição e relacionamento](https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento)
